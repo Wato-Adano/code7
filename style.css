@@ -1,0 +1,33 @@
+#container{
+    overflow: hidden;
+    
+background-color: azure;
+}
+img{
+    max-width: 15%;
+    max-height: 15%;
+}
+img{
+display:flex;
+padding-left: 5%;
+}
+  
+.Images{
+    display: flex;
+}
+.Image{
+    display: flex;
+}
+.button{
+    background-color: black;
+    
+}
+#bottom{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    justify-content: space-between;
+}
+
+
+    
